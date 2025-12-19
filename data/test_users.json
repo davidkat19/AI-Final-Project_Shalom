@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "diet_type": "high-protein",
+    "calorie_target": 1800,
+    "protein_min": 120,
+    "allergens": ["peanuts"],
+    "preferences": ["chicken", "beef", "salmon"]
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "diet_type": "vegan",
+    "calorie_target": 1600,
+    "protein_min": 60,
+    "allergens": [],
+    "preferences": ["quinoa", "chickpeas", "tofu"]
+  },
+  {
+    "id": 3,
+    "name": "Mike",
+    "diet_type": "keto",
+    "calorie_target": 1900,
+    "protein_min": 100,
+    "allergens": ["shellfish"],
+    "preferences": ["beef", "eggs", "cheese"]
+  },
+  {
+    "id": 4,
+    "name": "Emma",
+    "diet_type": "vegetarian",
+    "calorie_target": 1500,
+    "protein_min": 70,
+    "allergens": ["peanuts"],
+    "preferences": ["eggs", "cheese", "yogurt"]
+  },
+  {
+    "id": 5,
+    "name": "David",
+    "diet_type": "pescatarian",
+    "calorie_target": 1700,
+    "protein_min": 90,
+    "allergens": ["dairy"],
+    "preferences": ["salmon", "tuna", "shrimp"]
+  },
+  {
+    "id": 6,
+    "name": "Lisa",
+    "diet_type": "gluten-free",
+    "calorie_target": 1550,
+    "protein_min": 65,
+    "allergens": ["gluten"],
+    "preferences": ["chicken", "vegetables", "rice"]
+  },
+  {
+    "id": 7,
+    "name": "Tom",
+    "diet_type": "balanced",
+    "calorie_target": 2000,
+    "protein_min": 80,
+    "allergens": [],
+    "preferences": ["chicken", "pasta", "vegetables"]
+  },
+  {
+    "id": 8,
+    "name": "Rachel",
+    "diet_type": "high-protein",
+    "calorie_target": 1400,
+    "protein_min": 90,
+    "allergens": ["dairy", "shellfish"],
+    "preferences": ["chicken", "turkey", "eggs"]
+  },
+  {
+    "id": 9,
+    "name": "Chris",
+    "diet_type": "vegetarian",
+    "calorie_target": 1850,
+    "protein_min": 75,
+    "allergens": [],
+    "preferences": ["tofu", "beans", "quinoa"]
+  },
+  {
+    "id": 10,
+    "name": "Nina",
+    "diet_type": "pescatarian",
+    "calorie_target": 1650,
+    "protein_min": 85,
+    "allergens": ["peanuts"],
+    "preferences": ["salmon", "cod", "vegetables"]
+  }
+]
